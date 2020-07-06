@@ -1,1 +1,2 @@
 <pre>system('cat /etc/passwd')</pre>
+ci_session=c2rvgf0h2dggmch3sptjkcvus0ok3tv9; id=1;
