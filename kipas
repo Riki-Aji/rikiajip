@@ -1,15 +1,1 @@
-POST /api_v1/Api/addQtyWarehouse HTTP/1.1
-Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ImUwMjlkY2Y5ODUzOTYyYzFhODlhZTU3ZmY1ZDI2MGFlMjBmMTlmYjdlMGJhNjA1MjhmNDg4Y2VjOGJjYzk5NThjZDVmMTk3NzFmYTQxOGYyYzc5ZTg3YzJkNmQyZTAwOGYxMWFhNGQwMzE1MDM4ZmM5OThiMjZhYmJkNjU4YWIxSHJzNDhGWW9vSmtBQko4b29ZTXJ2VFRJIiwidXNlcm5hbWUiOiJndWRhbmctcGljLTEiLCJ0b2tlbiI6IjhXbVA2Nm1CVWdYMURBdGciLCJ0aW1lc3RhbXAiOjE1OTQ5NjgwMzl9.nlcj6kdawmuLUqtK7Kj1sAr2OvnXHrf--QanP-aqTuw
-Content-Type: application/json; charset=UTF-8
-Content-Length: 61
-Host: www.dnrbansos.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-User-Agent: okhttp/3.9.0
-
-{
-  "qty_20_in": 3,
-  "qty_25_in": 5,
-  "qty_5_in": 1,
-  "warehouse_id": 114
-}
+FW: *** VIRUS ***[allusers] Invoice 714634 from Ari
